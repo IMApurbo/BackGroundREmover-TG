@@ -5,7 +5,7 @@ import io
 from telebot import types
 
 # Replace 'YOUR_TOKEN' with your bot's token
-TOKEN = '6382922094:AAFNrSB3w0Lv7i9h6ZGK_0J_FJ_d3ACwW7Y'
+TOKEN = 'YOUR_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
