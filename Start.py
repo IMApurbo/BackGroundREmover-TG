@@ -1,3 +1,5 @@
+##instALL nessessary library
+##pip install pyTelegramBotAPI rembg
 import telebot
 from rembg import remove
 from PIL import Image
